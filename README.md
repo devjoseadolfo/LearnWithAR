@@ -1,8 +1,10 @@
 ![LearnWithAR Banner](https://github.com/jadolfot/LearnWithAR/blob/master/Banner.jpg)
 # LearnWithAR: Intro to Electromagnetism
-## WWDC20 Swift Student Challenge Submission 
+**WWDC20 Swift Student Challenge Submission**
 
-As a STEM student, I observed that my peers and I often have difficulties comprehending and visualizing some Physics concepts as these concepts may be either very abstract or mathematical in nature. Thus, I set my sights on addressing this very issue by creating LearnWithAR: Intro to Electromagnetism. LearnWithAR is an educational Swift Playground which covers key concepts in electromagnetism through the use of interactive augmented reality scenes. The use of Playgrounds and augmented reality produced an intuitive interface that bodes well with the dynamics of studying Physics. 
+**by JOSE ADOLFO TALACTAC**
+
+As a STEM student, I observed that my peers and I often experience difficulties comprehending and visualizing some Physics concepts as these concepts may be either very abstract or mathematical in nature. Thus, I set my sights on addressing this very issue by creating LearnWithAR: Intro to Electromagnetism. LearnWithAR is an educational Swift Playground which covers key concepts in electromagnetism through the use of interactive augmented reality scenes. The use of Playgrounds and augmented reality produced an intuitive interface that bodes well with the dynamics of studying Physics. 
 
 LearnWithAR utilizes UIKit, ARKit, SceneKit, PlaygroundSupport, SpriteKit, and simd frameworks. ARKit allowed LearnWithAR to have performant and stunning augmented reality scenes by leveraging the iPad’s powerful chip and camera. The use of SceneKit’s built-in geometries made the Playgrounds compact, in terms of file size. The simd framework aided in the efficient computation of vectors in the electric field scenes. 
 
@@ -11,3 +13,8 @@ LearnWithAR tackles three electromagnetism topics: electric charges, Coulomb’s
 The LearnWithAR Playground is a proof that augmented reality can and will play a vital role in the education sector. Students and educators will appreciate the use of augmented reality technologies to enhance the classroom experience, especially in teaching science, technology, engineering, and mathematics.
 
 ## Screenshots
+![Page1 Screenshots](https://github.com/jadolfot/LearnWithAR/blob/master/Screenshots/Page1.PNG)
+![Page2 Screenshots](https://github.com/jadolfot/LearnWithAR/blob/master/Screenshots/Page2.PNG)
+![Page3 Screenshots](https://github.com/jadolfot/LearnWithAR/blob/master/Screenshots/Page3.PNG)
+![Page4 Screenshots](https://github.com/jadolfot/LearnWithAR/blob/master/Screenshots/Page4.PNG)
+![Page5 Screenshots](https://github.com/jadolfot/LearnWithAR/blob/master/Screenshots/Page5.PNG)
